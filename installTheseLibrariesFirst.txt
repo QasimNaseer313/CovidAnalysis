@@ -1,0 +1,7 @@
+// install these libraries to run the project
+
+pip install streamlit
+pip install pandas
+pip install plotly
+pip install scikit-learn
+pip install matplotlib
